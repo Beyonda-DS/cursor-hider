@@ -5,3 +5,5 @@ Execute the BIN file as root > it will hide cursor arrow (overwrite the default 
 Execute the BIN file again as root > it will show your cursor back again.
 
 Super simple, see the code.
+
+(Binary built with Nuitka-commercial on RPI 5 (Bookworm Wayland/Labwc, Python 3.11)
